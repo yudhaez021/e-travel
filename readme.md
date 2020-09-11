@@ -1,0 +1,1 @@
+Aplikasi E-Travel adalah aplikasi travelling seperti traveloka / tiket berbasis WEB dan menggunakan platform CodeIgniter. Dan aplikasi travel ini hanya tersedia untuk tiket Bis saja.
